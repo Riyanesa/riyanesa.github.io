@@ -1159,7 +1159,7 @@ button:focus {
 }
 
 .fade, .fade-el {
-    opacity: 0
+    opacity: 1
 }
 
 .to-be-scaled {
@@ -1951,7 +1951,7 @@ button:focus {
     font-family: Open Sans, sans-serif;
     font-size: 16px;
     font-weight: 400;
-    text-align: center;
+    text-align: left;
 }
 
 @media (min-width: 1441px) {
